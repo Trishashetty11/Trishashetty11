@@ -1,10 +1,12 @@
 <h2 align="left">Hi 👋! My name is Trisha </h2>
 <h1 align="left">About me: </h1>
-<h1 align="left">🌐 I build responsive web apps with the **MERN stack**.  
-- 🤖 Fascinated by **AI/ML** and how tech solves real-world problems.  
-- 🚀 Currently developing [Project Name/Idea].  
-- 🎯 2025 Goals: Contribute more to **open-source** and sharpen my **DSA skills**.  
-- ⚡ Fun fact: I can debug faster when I have coffee ☕</h1>
+<h3 align="left">🌐 I build responsive web apps with the MERN stack.  
+- 🤖 Fascinated by AI/ML and how tech solves real-world problems.  
+- 🚀 Currently developing CuraA.  
+- 🎯 2025 Goals: Contribute more to open-source and sharpen my DSA skills.  
+-🎵 When I’m not coding, you’ll find me exploring music, tech, or travel ideas.  
+</h3>
+
 
 
 ###
@@ -50,6 +52,7 @@
 ###
 
 <div align="left">
+  <h3 align="left">Connect With Me: </h3>
   <a href="trishashetty1104@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
