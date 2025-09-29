@@ -1,4 +1,11 @@
 <h2 align="left">Hi 👋! My name is Trisha </h2>
+<h1 align="left">About me: </h1>
+<h1 align="left">🌐 I build responsive web apps with the **MERN stack**.  
+- 🤖 Fascinated by **AI/ML** and how tech solves real-world problems.  
+- 🚀 Currently developing [Project Name/Idea].  
+- 🎯 2025 Goals: Contribute more to **open-source** and sharpen my **DSA skills**.  
+- ⚡ Fun fact: I can debug faster when I have coffee ☕</h1>
+
 
 ###
 
