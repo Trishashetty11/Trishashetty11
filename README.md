@@ -1,21 +1,17 @@
-<h2 align="left">Hi 👋! My name is Trisha </h2>
+<h2 align="center">Hi 👋! My name is Trisha </h2>
+<img align="center" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGdqYmF4dGxneXQ5ZHQ4ZHNzNHV5ODhlZmNvM2JiY3Y2M2lmdzRjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 <h1 align="left">About me: </h1>
 <h3 align="left">🌐 I build responsive web apps with the MERN stack. </h3> 
-- <h3>🤖 Fascinated by AI/ML and how tech solves real-world problems. </h3>   
-- <h3>🚀 Currently developing CuraA. </h3>
-- <h3>🎯 2025 Goals: Contribute more to open-source and sharpen my DSA skills. </h3> 
--<h3> 🎵 When I’m not coding, you’ll find me exploring music, tech, or travel ideas.   </h3>
+<h3 align="left">🤖 Fascinated by AI/ML and how tech solves real-world problems. </h3>   
+<h3 align="left">🚀 Currently developing CuraA. </h3>
+<h3 align="left">🎯 2025 Goals: Contribute more to open-source and sharpen my DSA skills. </h3> 
+<h3 align="left"> 🎵 When I’m not coding, you’ll find me exploring music, tech, or travel ideas.   </h3>
 
 
 
 
-###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGdqYmF4dGxneXQ5ZHQ4ZHNzNHV5ODhlZmNvM2JiY3Y2M2lmdzRjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -51,8 +47,8 @@
 
 ###
 
-<div align="left">
-  <h3 align="left">Connect With Me: trishashetty1104@gmail.com </h3>
+<div align="center">
+  <h3 align="center">Connect With Me: trishashetty1104@gmail.com </h3>
   <a href="trishashetty1104@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
