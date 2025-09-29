@@ -1,11 +1,11 @@
 <h2 align="center">Hi 👋! My name is Trisha </h2>
-<img align="center" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGdqYmF4dGxneXQ5ZHQ4ZHNzNHV5ODhlZmNvM2JiY3Y2M2lmdzRjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
-<h1 align="left">About me: </h1>
-<h3 align="left">🌐 I build responsive web apps with the MERN stack. </h3> 
-<h3 align="left">🤖 Fascinated by AI/ML and how tech solves real-world problems. </h3>   
-<h3 align="left">🚀 Currently developing CuraA. </h3>
-<h3 align="left">🎯 2025 Goals: Contribute more to open-source and sharpen my DSA skills. </h3> 
-<h3 align="left"> 🎵 When I’m not coding, you’ll find me exploring music, tech, or travel ideas.   </h3>
+<div align="center"> <img align="center" height="150" width = "200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGdqYmF4dGxneXQ5ZHQ4ZHNzNHV5ODhlZmNvM2JiY3Y2M2lmdzRjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  /></div>
+<h1 align="center">About me: </h1>
+<h3 align="center">🌐 I build responsive web apps with the MERN stack. </h3> 
+<h3 align="center">🤖 Fascinated by AI/ML and how tech solves real-world problems. </h3>   
+<h3 align="center">🚀 Currently developing CuraA. </h3>
+<h3 align="center">🎯 2025 Goals: Contribute more to open-source and sharpen my DSA skills. </h3> 
+<h3 align="center"> 🎵 When I’m not coding, you’ll find me exploring music, tech, or travel ideas.   </h3>
 
 
 
